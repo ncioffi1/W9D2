@@ -1,1 +1,35 @@
 /* Your code here */
+h1{
+    text-align: center;
+}
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    height: 300px;
+    border: 5px solid black;
+    margin: auto;
+    padding: 0;
+}
+li{
+    border: 5px solid black;
+    background-color: blueviolet;
+    list-style: none;
+    width: 90px;
+    height: 90px;
+}
+.done{
+    background-color: red;
+}
+.clicked{
+    background-color: white;
+}
+.x{
+    color: red;
+    font-size: 85px;
+}
+
+.o{
+    color: blue;
+    font-size: 85px;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "practice-for-ch-js-browser-ttt-main",
+  "version": "1.0.0",
+  "description": "Tic Tac TOE",
+  "private": true,
+  "scripts": {
+    "start": "webpack --watch --mode=development"
+  },
+  "keywords": [],
+  "author": "Nick and Shaun",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
